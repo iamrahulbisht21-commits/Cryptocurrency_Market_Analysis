@@ -1,6 +1,4 @@
 # crypto_analysis
-Cryptocurrency data analysis and insights using Python and SQL.
-
 Crypto Insights: Bitcoin vs. Ethereum Analysis
 
 A technical data analytics project that explores the relationship, growth, and market behavior of the two largest cryptocurrencies: Bitcoin (The Digital Gold) and Ethereum (The World's Computer).
