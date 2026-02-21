@@ -1,5 +1,5 @@
-# crypto_analysis
-Crypto Insights: Bitcoin vs. Ethereum Analysis
+# Cryptocurrency Market Analysis
+Crypto Insights: Bitcoin and Ethereum Performance
 
 A technical data analytics project that explores the relationship, growth, and market behavior of the two largest cryptocurrencies: Bitcoin (The Digital Gold) and Ethereum (The World's Computer).
 
