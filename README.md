@@ -59,7 +59,6 @@ Compare the risk and return profiles of **Bitcoin (BTC)** and **Ethereum (ETH)**
 | **Pandas** | Data cleaning, transformation, time-series manipulation |
 | **NumPy** | Returns calculation, volatility, statistical metrics |
 | **Matplotlib / Seaborn** | Visualizations (returns, volatility, correlation heatmap) |
-| **SQLite + sqlite3** | Structured querying, aggregation, and filtering |
 | **Jupyter Notebook** | Interactive analysis and visualization |
 
 ---
