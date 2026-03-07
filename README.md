@@ -22,7 +22,6 @@ Cryptocurrency-Market-Analysis/
 ├── sql/
 │   └── crypto_analysis.sql          # SQL queries for aggregation & comparison
 │
-├── requirements.txt
 ├── LICENSE
 └── README.md
 ```
