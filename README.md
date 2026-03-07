@@ -84,7 +84,7 @@ Compare the risk and return profiles of **Bitcoin (BTC)** and **Ethereum (ETH)**
 - Strong positive correlation confirmed — both assets are affected by the same macro crypto market forces
 
 ### 5. SQL Analysis 
-- Loaded processed data into SQLite database
+- Loaded processed data into MySQL database
 - Queried yearly average prices, best/worst performing months, and comparative summaries
 
 ---
