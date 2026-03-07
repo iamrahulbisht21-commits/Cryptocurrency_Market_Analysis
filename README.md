@@ -83,7 +83,7 @@ Compare the risk and return profiles of **Bitcoin (BTC)** and **Ethereum (ETH)**
 - **Pearson correlation matrix** computed between BTC and ETH daily returns
 - Strong positive correlation confirmed — both assets are affected by the same macro crypto market forces
 
-### 5. SQL Analysis (SQLite)
+### 5. SQL Analysis 
 - Loaded processed data into SQLite database
 - Queried yearly average prices, best/worst performing months, and comparative summaries
 
@@ -130,7 +130,7 @@ jupyter
 - End-to-end data pipeline (retrieval → cleaning → analysis → visualization)
 - Financial metrics: returns, volatility, correlation
 - Time-series analysis with Pandas
-- SQL querying with SQLite inside a Python workflow
+- SQL querying inside a Python workflow
 - Data storytelling through charts and structured findings
 
 ---
