@@ -20,7 +20,7 @@ Cryptocurrency-Market-Analysis/
 │   └── crypto_analysis.ipynb        # Full analysis: EDA, returns, volatility, correlation
 │
 ├── sql/
-│   └── crypto_analysis.sql          # SQLite queries for aggregation & comparison
+│   └── crypto_analysis.sql          # SQL queries for aggregation & comparison
 │
 ├── requirements.txt
 ├── LICENSE
