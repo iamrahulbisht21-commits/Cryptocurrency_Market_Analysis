@@ -138,9 +138,3 @@ jupyter
 
 **Rahul Bisht**
 [GitHub](https://github.com/iamrahulbisht021) · [LinkedIn](www.linkedin.com/in/rahul-bisht-b986531b1)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
